@@ -1,0 +1,8 @@
+{
+	"navigationBarBackgroundColor": "#d22222",
+	"navigationBarTextStyle": "light",
+	"navigationBarTitleText": "前端梦想",
+	"backgroundColor": "#d22222",
+	"enablePullDownRefresh":true,
+	"backgroundTextStyle": "dark"
+}
